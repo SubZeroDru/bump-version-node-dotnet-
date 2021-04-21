@@ -1,3 +1,13 @@
+### Prerequisites 
+**https://www.nuget.org/packages/dotnet-bump-version/**
+
+
+**https://www.python.org/downloads/**
+
+
+**https://nodejs.org/en/download/**
+
+
 # bump-version-node/dotnet
 This python script will bump your node or dotnet version according to changes in git
 
